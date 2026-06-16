@@ -7,5 +7,5 @@ spec:
   selector:
     app: devops-demo
   ports:
-    - port: 8000
-      targetPort: 8000
+    - port: 61630
+      targetPort: 6163
